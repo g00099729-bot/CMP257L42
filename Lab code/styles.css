@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(192, 198, 204);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+h1, footer{
+    background-color: rgb(71, 85, 132);
+}
+form{
+    background-color: rgb(94, 109, 120);
+    border: 2px solid rgb(39, 39, 81);
+}
+h1{
+    text-align: center;
+    font-size: 250%;
+}
+h2{
+    font-size: 150%;
+}
+label{
+    font-size: 75%;
+}
+.f1{
+    padding: 10px;
+    margin-left: 15px;
+}
+
+#f2{
+    padding: 4px;
+    margin-left: 10px;
+}
+#upcomingEv:hover{
+    background-color: rgb(129, 129, 150);
+}
+#bhome:hover{
+    background-color: rgb(147, 147, 182);
+}
+
+.btn btn-primary{
+    background-color: rgb(144, 169, 183);
+    border: 1px solid rgb(75, 75, 89);
+    border-radius:20px;
+    font-size:15px;
+}
+
+.container-fluid{
+    background-color: rgb(234, 234, 239);
+}
+.navbar-nav{
+    padding: 5px;
+}
+
+.form-control{
+    font-size: 70%;
+    background-color: rgb(186, 198, 198);
+}
+
+.form-check{
+    font-size: 100%;
+}
+
+.form-select{
+    background-color: rgb(217, 236, 236);
+}
